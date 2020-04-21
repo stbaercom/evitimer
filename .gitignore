@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+.DS_Store
+dist_electron/.DS_Store
+dist_electron/.icon-icns/icon.icns
+public/favicon.ico
+
+src/assets/icons/vue_timer.afdesign
+src/assets/icons/vue_timer_new.afdesign
+timer_ts/
