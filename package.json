@@ -17,7 +17,7 @@
   "dependencies": {
     "@types/electron-settings": "^3.1.1",
     "axios": "^0.19.2",
-    "bootstrap": "^4.4.1",
+    "bootstrap": "^5.0.0",
     "bootstrap-vue": "^2.6.1",
     "core-js": "^3.6.4",
     "electron-settings": "^3.2.0",
